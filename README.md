@@ -73,18 +73,6 @@ A distributed systems solution focused on intelligent electric vehicle charging.
 
 `Java` `Distributed Systems`
 
----
-
-### 🌍 Hela Trip
-
-A tourism platform created to help travelers discover destinations across Sri Lanka.
-
-**Tech Stack**
-
-`React`
-`Firebase`
-
----
 
 ## 🛠 Technologies
 
