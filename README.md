@@ -1,8 +1,8 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Ruwa
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Ruwaneke
 
-### Software Engineering Undergraduate • Full Stack Developer • Student Leader
+### Information Technology Undergraduate • Full Stack Developer • Student Leader
 
-I'm an undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)** specializing in Software Engineering. I enjoy designing scalable applications, solving real-world problems, and building software that creates meaningful impact.
+I'm an undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)** specializing Information Technology. I enjoy designing scalable applications, solving real-world problems, and building software that creates meaningful impact.
 
 Alongside development, I currently serve as the **President of the Faculty of Computing Student Community (FCSC)**, where I lead one of the faculty's largest student organizations, coordinate technical initiatives, and work closely with students, academics, and industry professionals.
 
